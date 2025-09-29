@@ -1,0 +1,1 @@
+// CommunityGalleryScreen has been removed
